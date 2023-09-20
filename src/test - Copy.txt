@@ -1,0 +1,2 @@
+Para validar merge forzado.
+intento 1
