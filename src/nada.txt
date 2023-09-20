@@ -1,1 +1,2 @@
 solo para comparar
+Adiciono una línea para ver el resultado del merge por bat
