@@ -1,3 +1,3 @@
 Agrego archivo
 Agrego desde dev para crear conflicto
-Agrego linea sin conflictos
+Agrego línea sin conflictos, Modifico esta misma línea para recuperar version desde dev forzado.
