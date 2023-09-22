@@ -2,3 +2,4 @@ Agrego archivo
 Agrego desde dev para crear conflicto
 Agrego linea sin conflictos
 Modificación desde dev para tst Agrego linea para actualizar tst desde dev
+Modifico tst para crear conflicto, debe quedar dev
